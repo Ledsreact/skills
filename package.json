@@ -1,0 +1,38 @@
+{
+  "name": "@ledsreact/skills",
+  "version": "1.0.0",
+  "description": "Agent skills for building production-ready Ledsreact applications.",
+  "author": "Ledsreact",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledsreact/skills.git"
+  },
+  "homepage": "https://github.com/ledsreact/skills#readme",
+  "bugs": {
+    "url": "https://github.com/ledsreact/skills/issues"
+  },
+  "type": "module",
+  "bin": {
+    "ledsreact-skills": "bin/cli.js"
+  },
+  "keywords": [
+    "ledsreact",
+    "sports-performance",
+    "ai-skills",
+    "agent-skills",
+    "openapi",
+    "sdk",
+    "athlete-tracking",
+    "speed-testing"
+  ],
+  "files": [
+    "bin/cli.js",
+    "skills/**/*.md",
+    "skills/**/assets/**",
+    "skills/**/references/**",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "GEMINI.md"
+  ]
+}
