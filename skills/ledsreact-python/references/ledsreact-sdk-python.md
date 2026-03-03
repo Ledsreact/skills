@@ -1,6 +1,6 @@
 # ledsreact-sdk
 
-Python SDK for the [Ledsreact Open API](https://developer.ledsreact.com). Ledsreact is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. This SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
+Python SDK for the [Ledsreact Open API](https://developer.ledsreact.com). Ledsreact is a sports performance and agility sensing platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. This SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
 
 ![Python >=3.10](https://img.shields.io/badge/python-%3E%3D3.10-blue)
 
@@ -40,7 +40,7 @@ Python SDK for the [Ledsreact Open API](https://developer.ledsreact.com). Ledsre
 
 ## What is Ledsreact?
 
-[Ledsreact](https://ledsreact.com) is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables.
+[Ledsreact](https://ledsreact.com) is a sports performance and agility measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables.
 
 This SDK gives you programmatic access to the data collected by the Ledsreact platform — players, teams, exercises, session results, computed metrics, and raw timeseries datapoints. Common use cases include:
 

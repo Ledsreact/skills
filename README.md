@@ -1,6 +1,6 @@
 # Ledsreact Skills
 
-Agent skills for building applications that integrate with the [Ledsreact](https://ledsreact.com) sports performance platform, following the [Agent Skills](https://github.com/anthropics/skills) open format.
+Agent skills for building applications that integrate with the [Ledsreact](https://ledsreact.com) sports performance and agility sensing platform, following the [Agent Skills](https://github.com/anthropics/skills) open format.
 
 ## Overview
 

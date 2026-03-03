@@ -4,7 +4,7 @@ This file provides context for Gemini CLI when working with Ledsreact projects.
 
 ## About Ledsreact
 
-Ledsreact is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables.
+Ledsreact is a sports performance and agility measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables.
 
 ## API Reference
 

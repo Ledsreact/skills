@@ -1,6 +1,6 @@
 # @ledsreact/sdk
 
-TypeScript SDK for the [Ledsreact Open API](https://developer.ledsreact.com). Ledsreact is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. This SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
+TypeScript SDK for the [Ledsreact Open API](https://developer.ledsreact.com). Ledsreact is a sports performance and agility sensing platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. This SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
 
 ## Table of Contents
 

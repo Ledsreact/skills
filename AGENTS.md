@@ -1,10 +1,10 @@
 # Ledsreact Skills
 
-Agent skills for building applications that integrate with the Ledsreact sports performance platform.
+Agent skills for building applications that integrate with the Ledsreact sports performance and agility sensing platform.
 
 ## About Ledsreact
 
-Ledsreact is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. The Open API provides access to clubs, players, teams, exercise templates, sessions, attempts, metrics, and raw timeseries data.
+Ledsreact is a sports performance and agility sensing platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. The Open API provides access to clubs, players, teams, exercise templates, sessions, attempts, metrics, and raw timeseries data.
 
 ## Overview
 

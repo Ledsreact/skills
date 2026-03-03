@@ -1,0 +1,17 @@
+{
+  "name": "ledsreact",
+  "owner": {
+    "name": "Ledsreact"
+  },
+  "metadata": {
+    "description": "Skills for building applications with the Ledsreact sports performance and agility sensing platform"
+  },
+  "plugins": [
+    {
+      "name": "ledsreact-skills",
+      "source": ".",
+      "description": "Ledsreact skills for API integration, web app development, and requirements translation",
+      "version": "1.0.0"
+    }
+  ]
+}

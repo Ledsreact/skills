@@ -17,7 +17,7 @@ This skill helps you build Python applications that use the `ledsreact-sdk` pack
 
 ## About Ledsreact
 
-Ledsreact is a sports performance measurement platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. The Python SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
+Ledsreact is a sports performance and agility sensing platform built around a radar-based device (the Ledsreact Pro) that tracks athlete speed, agility, and performance metrics without requiring wearables. The Python SDK provides typed access to all Open API endpoints for managing players, exercises, sessions, metrics, and timeseries data.
 
 ## The Job
 
