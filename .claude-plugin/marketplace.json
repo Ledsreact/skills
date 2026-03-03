@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ledsreact-skills",
-      "source": ".",
+      "source": "./",
       "description": "Ledsreact skills for API integration, web app development, and requirements translation",
       "version": "1.0.0"
     }
