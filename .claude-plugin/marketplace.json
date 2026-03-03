@@ -15,7 +15,8 @@
       "skills": [
         "./skills/ledsreact-openapi",
         "./skills/ledsreact-requirements",
-        "./skills/ledsreact-webapp"
+        "./skills/ledsreact-webapp",
+        "./skills/ledsreact-devcontainer"
       ]
     }
   ]
