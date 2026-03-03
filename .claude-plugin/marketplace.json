@@ -11,7 +11,12 @@
       "name": "ledsreact-skills",
       "source": "./",
       "description": "Ledsreact skills for API integration, web app development, and requirements translation",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "skills": [
+        "./skills/ledsreact-openapi",
+        "./skills/ledsreact-requirements",
+        "./skills/ledsreact-webapp"
+      ]
     }
   ]
 }
